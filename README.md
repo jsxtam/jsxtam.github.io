@@ -1,5 +1,5 @@
 # jsxtam.github.io
 <h1>hello</h1>
-<p> <font size="12" color="red">
+<p> 
 Sample Text
-</font></p>
+</p>
